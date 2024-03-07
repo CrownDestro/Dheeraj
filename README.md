@@ -19,7 +19,7 @@ Perfect number is 6 and [2(6)-7] = 5
 - **Directory:** '06'
 - **File:** spell_05
 
-[Link](aHR0cHM6Ly9naX)
+- **Code:** aHR0cHM6Ly9naX
 
 -------------------------------------------
 
@@ -30,7 +30,7 @@ First used element is Germanium(32)
 - **Directory:** '02'
 - **File:** spell_03
 
-[Link](ZW5jb2RlZCBzbg)
+- **Code:** ZW5jb2RlZCBzbg
 
 --------------------------------------------
 
@@ -38,7 +38,7 @@ First used element is Germanium(32)
 
 Spell used to fight boggart is Riddikulus
 
-[Link](Uh1bnRzbWFuNC9U)
+- **Code:** Uh1bnRzbWFuNC9U
 
 --------------------------------------------
 
@@ -47,8 +47,8 @@ Spell used to fight boggart is Riddikulus
 Hey there! The last spell is in path 0x/Spell_0y" of thegraveyard...
     where x is the number of horcruxes made by Voldemort and y is the number that has same alphabets as the number
 
-[Link](aGVGaW5hbFNwZWxs)
+- **Code:** aGVGaW5hbFNwZWxs
+--------------------------------------------
+- **Concatenated:** aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs
 
-[Link](aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs)
-
-echo aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs | base64 --decode
+- **Command used:** echo aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs | base64 --decode
