@@ -15,5 +15,7 @@ https://themes.gohugo.io/themes/hugo-winston-theme/
 
 https://pages.github.com/
 
+First year student at Amrita Vishwa Vidyapeetham with a belief in the transformative power of technology and look forward to exploring, innovating, and building a brighter future.
+Analytical, energetic, and detail-oriented person with a passion in the field of Cyber security to learn more...
 
 
