@@ -9,5 +9,11 @@ https://www.youtube.com/watch?v=u0ko3D1-7L8
 https://rubydevices.com.au/blog/how-to-hack-keepass
 
 https://atinfosec.medium.com/nahamcon-ctf-easy-keesy-challenge-write-up-b739ac337347
+---------------------------------------------------------------------------------------------------------
+
+https://themes.gohugo.io/themes/hugo-winston-theme/
+
+https://pages.github.com/
+
 
 
